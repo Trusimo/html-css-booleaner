@@ -1,0 +1,21 @@
+header div{
+    background-image: url(../img/pattern.png);
+    background-size: cover;
+    background-color: cornflowerblue;
+}
+
+#logo {
+    
+}
+
+.scrittoda {
+    color:darkgray;
+}
+
+.data {
+    color: darkgray;
+}
+
+#autore {
+    color:dodgerblue;
+}
